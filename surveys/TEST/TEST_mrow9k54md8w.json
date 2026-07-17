@@ -1,0 +1,41 @@
+{
+  "submittedAt": "2026-07-17T12:11:37.865Z",
+  "siteCode": "TEST",
+  "surveyor": "Test ",
+  "surveyorEmail": "david.campbell@fastsigns.com",
+  "surveyDate": "2026-07-17",
+  "address": "123 Test Drive",
+  "meta": {
+    "site_code": "TEST",
+    "survey_date": "2026-07-17",
+    "street": "123 Test Drive",
+    "surveyor": "Test ",
+    "surveyor_email": "david.campbell@fastsigns.com"
+  },
+  "scope": {
+    "dockDoors": [
+      {
+        "door_type": "Sectional — full-width vision panel",
+        "meas_w": "124",
+        "meas_h": "96",
+        "has_window": "Yes",
+        "win_w": "11",
+        "win_h": "12",
+        "win_from_left": "13",
+        "win_from_bottom": "14",
+        "metal_bars": "Yes",
+        "metal_bars_removable": "No",
+        "multi_same": "Yes",
+        "multi_door_nos": "1234",
+        "damage": "No",
+        "notes": "Test"
+      }
+    ]
+  },
+  "exterior": {},
+  "signoff": {
+    "cust_name": "David Campbell",
+    "sign_date": "2026-07-17",
+    "signature": "[image]"
+  }
+}
